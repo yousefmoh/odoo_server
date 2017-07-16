@@ -1,0 +1,19 @@
+#readme
+#notes 
+
+* there is sudo command so you must login as root 
+
+* if nano command not working don't wory you can use vi command (nano is just a text editor )
+  example vi /home/example.conf
+
+* make sure that you make the file executable 
+
+* you may ask for your username and password during the installion 
+
+* after you installion be sue that you start the service 
+
+* don't forget add  port :8069 to url 
+
+
+
+  
