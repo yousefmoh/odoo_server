@@ -12,7 +12,10 @@
 
 * after you installion be sue that you start the service 
 
-* don't forget add  port :8069 to url 
+* at the end add 8069 port to url 
+
+www.your-domain.com:8069
+
 
 
 
